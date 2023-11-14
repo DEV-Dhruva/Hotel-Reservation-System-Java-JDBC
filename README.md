@@ -40,3 +40,5 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 - Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
 
 - Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
+
+### Video Tutorial Credit : https://youtu.be/OBq6vuBCpuE?si=aZ0qZoNFKJKGV1p6
